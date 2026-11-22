@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @opportunityonly1-arch
+/src/backend/database.py      @opportunityonly1-arch
+/src/backend/routers/auth.py  @opportunityonly1-arch
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @opportunityonly1-arch
